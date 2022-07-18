@@ -2,7 +2,7 @@
 * Jobs
 - *mavlink-esp32*  
 - *instruct sophomores to complete autonoumous landing* 
-- *incremental nonlinear dynamic control for tail-sitter VTOL * 
+- *incremental nonlinear dynamic control for tail-sitter VTOL* 
 
 * Daily work
 
