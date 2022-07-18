@@ -1,3 +1,9 @@
+
+* Jobs
+- *mavlink-esp32*  
+- *instruct sophomores to complete autonoumous landing* 
+- *incremental nonlinear dynamic control for tail-sitter VTOL * 
+
 * Daily work
 
 | Studies  | Complete | Experiments | Conlusions | Time            |
@@ -7,7 +13,14 @@
 |          |          |             |            |                 |
 |          |          |             |            |                 |
 
-
+* optional classes
+- optimal control
+- motion control of mechanical systems
+- modern ai principles and practice
+- sensor technology and information fusion
+- image processing and machine vision
+- reinforcement learning
+- positioning and navigation 
 * Footnotes
 
 [fn:1] \phi theory is used to parametrize tail-sitter aerodynamics
