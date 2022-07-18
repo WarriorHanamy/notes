@@ -1,2 +1,13 @@
-* Workday
-SCHEDULED: <2022-07-18 Mon>
+* Daily work
+
+| Studies  | Complete | Experiments | Conlusions | Time            |
+|----------+----------+-------------+------------+-----------------|
+| \phi theory[fn:1] | \times        | none        | none       | <2022-07-18 一> |
+|          |          |             |            |                 |
+|          |          |             |            |                 |
+|          |          |             |            |                 |
+
+
+* Footnotes
+
+[fn:1] \phi theory is used to parametrize tail-sitter aerodynamics
