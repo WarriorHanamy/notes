@@ -6,12 +6,19 @@
 
 * Daily work
 
-| Studies  | Complete | Experiments | Conlusions | Time            |
-|----------+----------+-------------+------------+-----------------|
-| \phi theory[fn:1] | \times        | none        | none       | <2022-07-18 一> |
-|          |          |             |            |                 |
-|          |          |             |            |                 |
-|          |          |             |            |                 |
+| Studies  | Complete | Experiments | Conlusions | Time            | Self-evaluation       | Advice |
+|----------+----------+-------------+------------+-----------------+-----------------------+--------|
+| \phi theory | \times        | none        | none       | <2022-07-18 一> | too much time on talk |        |
+| \phi theory | *        | none        | ...        | <2022-07-19 二> |                       |        |
+|          |          |             |            |                 |                       |        |
+|          |          |             |            |                 |                       |        |
+|          |          |             |            |                 |                       |        |
+
+* mavlink-esp32
+1. _host computer transmits data to FCU using C++_  
+2. host computer transmits data to FCU using Matlab/Simulink \hearts 
+3. host computer sends fake heartbeat message
+4. host-level wifi-adapter (better device), px4 write something to analyze udp packets 
 
 * optional classes
 - optimal control
@@ -24,3 +31,4 @@
 * Footnotes
 
 [fn:1] \phi theory is used to parametrize tail-sitter aerodynamics
+/Global Singularity-Free Aerodynamic Model for Algorithmic Flight Control of Tail Sitters/
