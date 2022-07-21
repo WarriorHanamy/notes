@@ -6,17 +6,17 @@
 
 * Daily work
 
-| Studies  | Complete | Experiments | Conlusions | Time            | Self-evaluation       | Advice |
-|----------+----------+-------------+------------+-----------------+-----------------------+--------|
-| \phi theory | \times        | none        | none       | <2022-07-18 一> | too much time on talk |        |
-| \phi theory | *        | none        | ...        | <2022-07-19 二> |                       |        |
-|          |          |             |            |                 |                       |        |
-|          |          |             |            |                 |                       |        |
-|          |          |             |            |                 |                       |        |
+| Studies               | Complete    | Experiments    | Conlusions         | Time             | Self-evaluation                   | Advice                                  |
+|-----------------------+-------------+----------------+--------------------+------------------+-----------------------------------+-----------------------------------------|
+| \phi theory              | \times           | none           | none               | <2022-07-18 一>  | too much time on talk             |                                         |
+| \phi theory              | postpone    | none           | ...                | <2022-07-19 二>  | hart to understand airfoil theory | to find someone's work that has used it |
+| linear system control | totally not | MATLAB mavlink | easy to complete \heartsuit | <2022-07-20 Wed> | too much time on talk             |                                         |
+| Fei's class           |             | none           |                    |                  |                                   |                                         |
+|                       |             |                |                    |                  |                                   |                                         |
 
 * mavlink-esp32
 1. _host computer transmits data to FCU using C++_  
-2. host computer transmits data to FCU using Matlab/Simulink \hearts 
+2. host computer transmits data to FCU using Matlab/Simulink  \heartsuit
 3. host computer sends fake heartbeat message
 4. host-level wifi-adapter (better device), px4 write something to analyze udp packets 
 
@@ -30,5 +30,5 @@
 - positioning and navigation 
 * Footnotes
 
-[fn:1] \phi theory is used to parametrize tail-sitter aerodynamics
+[fn:1] \phi theory is used to parametrize tail-sitter aerodynamics 
 /Global Singularity-Free Aerodynamic Model for Algorithmic Flight Control of Tail Sitters/
